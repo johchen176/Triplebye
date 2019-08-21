@@ -1,0 +1,20 @@
+Pipe
+input the result from process a to process b
+$ cat file1 | wc
+
+process 
+        address
+	FFF
+Stack
+gap 
+Data
+Text 
+       0000
+
+process table
+
+permission
+space register
+
+
+
